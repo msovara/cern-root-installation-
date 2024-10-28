@@ -1,1 +1,1 @@
-# cern-root-installation-
+# CERN ROOT installation via conda package manager
